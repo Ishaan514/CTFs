@@ -15,7 +15,7 @@ However, we don't want to trash too much of the stack, so we want to also rewrit
 
 I wrote the python program below in order to perform the buffer overflow. I overwrote all of the stack until the return address with a's and rewrote the return address with the address of the function flag.
 
-[I wrote the python program below in order to perform the buffer overflow.](Payloader.py)
+[I wrote this python program in order to perform the buffer overflow.](Payloader.py)
 
 My program performing the bufferoverflow exploit:
 

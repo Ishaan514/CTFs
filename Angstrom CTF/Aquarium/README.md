@@ -2,7 +2,7 @@
 
 ## Challenge
 
-"Here's a nice little (program)[aquarium] that helps you manage your (fish tank)[aquarium.c].
+"Here's a nice little [program](aquarium) that helps you manage your [fish tank](aquarium.c).
 Run it on the shell server at /problems/2019/aquarium/ or connect with nc shell.actf.co 19305"
 
 ## Process

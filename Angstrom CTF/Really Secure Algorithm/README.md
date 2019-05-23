@@ -2,13 +2,13 @@
 
 ## Challenge
 
-"I found this flag somewhere when I was taking a walk, but it seems to have been encrypted with this [Really Secure Algorithm](Really Secure Algorithm.txt)!"
+"I found this flag somewhere when I was taking a walk, but it seems to have been encrypted with this [Really Secure Algorithm](Really_Secure_Algorithm.txt)!"
 
 ## Process
 
 By opening up the text file given in the problem, we can determine that this problem is an RSA encryption problem because we are given p, q, e, and c values.
 
-I wrote [this](RSA Breaker.py) python program in order to decrypt the flag.
+I wrote [this](RSA_Breaker.py) python program in order to decrypt the flag.
 ```
 p = 8337989838551614633430029371803892077156162494012474856684174381868510024755832450406936717727195184311114937042673575494843631977970586746618123352329889
 q = 7755060911995462151580541927524289685569492828780752345560845093073545403776129013139174889414744570087561926915046519199304042166351530778365529171009493

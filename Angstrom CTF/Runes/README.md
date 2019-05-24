@@ -77,6 +77,10 @@ print(hex(m))
 #Prints 0x616374667b63727970746f5f6c697665737dL which when placed in a hex to ascii online converter gives the flag
 #actf{crypto_lives}
 ```
-my program prints 0x616374667b63727970746f5f6c697665737dL which when placed in a hex to ascii online converter gives the flag.
+My program prints 0x616374667b63727970746f5f6c697665737dL which when placed in a hex to ascii online converter gives the flag. I could have used 
+```
+print(m.rstrip("L").decode('hex')
+```
+in order to do this more quickly but it didn;t occur to me at the time.
 
 The flag is actf{crypto_lives}

@@ -8,7 +8,7 @@
 The first time I connected, all I could see where asterisks where the password was supposed to be. So I decided to send everything the connection sends into a txt file.
 
 ```
-shell.hsctf.com 10101 > [leaky.txt](leaky.txt)
+$ shell.hsctf.com 10101 > leaky.txt
 ```
 
 I then looked in leaky.txt to find the redacted password, now unredacted. It was 6Xrzjoioge7RlnSQJehIm1262dhfgBrE. I then sent the password back. I opened up the txt file again and I found the flag at the end.

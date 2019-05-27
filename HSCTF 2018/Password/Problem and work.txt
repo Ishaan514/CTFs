@@ -1,0 +1,7 @@
+Keith found a seemingly secret website somewhere on BunSpace, and he wants to find out
+the flag. However, since he is not an administrator, he doesn't know the password. 
+Fortunately, he knows an administrator personally, and suspects that he was too lazy 
+to use a secure password. Help him find the flag! 
+
+bunspace link: http://206.189.179.133/secret1/
+Use inspect element to change username to admin. Then the password is simply password.

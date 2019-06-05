@@ -6,7 +6,7 @@
 
 ## Process
 
-We are given the [elf](jumper_compilation) file for a program as well as the [c file](jumper_code.c] for the program. After looking at the c file we can determine that in order to solve the challenge we need to somehow jump into the lol function from the jumper function. The program uses the functions gets() and printf() which are both vulnerable to a buffer overflow attack. Buffer overflow vulnerablities allow parts of the stack to be over written with arbitrary data.
+We are given the [elf](jumper_compilation) file for a program as well as the [c file](jumper_code.c) for the program. After looking at the c file we can determine that in order to solve the challenge we need to somehow jump into the lol function from the jumper function. The program uses the functions gets() and printf() which are both vulnerable to a buffer overflow attack. Buffer overflow vulnerablities allow parts of the stack to be over written with arbitrary data.
 
 We want to overwrite the return address of this function as the address of the function flag. From an objectdump of the elf file we can determine that the address for the flag function is 0x0804852b, which we want to jump to. 
 

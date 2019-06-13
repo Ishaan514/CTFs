@@ -11,7 +11,7 @@ At first, if we try to open this file PNG file, we are told that it will not ope
 
 ![Opening the file in notepad++](Capture.JPG)
 
-The first line is "I found this cool file. Its really cool!", not PNG%. This line does not seem to belong here so I deleted it and saved the file as [coolpostdelete.png](coolpostdelete.png). The new file, cool.png successfully opens and clearly displays the flag.
+The first line is "I found this cool file. Its really cool!", not ‰PNG. This line does not seem to belong here so I deleted it and saved the file as [coolpostdelete.png](coolpostdelete.png). The new file, cool.png successfully opens and clearly displays the flag.
 
 ![Opening the file in notepad++](coolpostdelete.png)
 

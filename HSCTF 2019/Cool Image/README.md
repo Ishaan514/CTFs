@@ -9,7 +9,7 @@ You can download the file for this problem here [cool.pdf](cool.pdf)
 
 At first, if we try to open this file as a PDF, we are told that it will not open because it is damaged or the file tpe is not recognized. 
 
-If we run the command file on the given file we can are told that this is not actually a PDF, but a PNG. Similarly if we open up the file in notepad++, the first line is PNG% which strongly implies that this file is a PNG.
+If we run the command file on the given file we can are told that this is not actually a PDF, but a PNG. Similarly if we open up the file in notepad++, the first line is ‰PNG which strongly implies that this file is a PNG.
 
 ![Running the command file on the file](Capture.JPG)
 

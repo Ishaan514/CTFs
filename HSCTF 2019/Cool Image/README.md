@@ -13,7 +13,7 @@ If we run the command file on the given file we can are told that this is not ac
 
 ![Running the command file on the file](Capture.JPG)
 
-I just renamed the file from cool.pdf to cool.png and tried to view it. The new file, cool.png successfully opens and clearly displays the flag.
+I just renamed the file from [cool.pdf](cool.pdf) to [cool.png](cool.png) and tried to view it. The new file, cool.png successfully opens and clearly displays the flag.
 
 ![opening up the new PNG file](cool.png)
 

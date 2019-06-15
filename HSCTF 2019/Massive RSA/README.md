@@ -1,6 +1,6 @@
 # Massive RSA
 
-## Challene
+## Challenge
 
 "I was scared that my RSA would be broken, so I made sure that the numbers were massive."
 

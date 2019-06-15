@@ -24,4 +24,4 @@ The last part of the flag is: right} and is found in the js file.
 
 ![part3.JPG](part3.JPG)
 
-hsctf{that_was_pretty_easy_right}
+The flag is hsctf{that_was_pretty_easy_right}

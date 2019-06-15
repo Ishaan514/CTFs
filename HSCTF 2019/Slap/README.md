@@ -14,7 +14,7 @@ I opened the file and didn't find anything interesting.
 
 I tried running strings on the image and using grep for the flag format.
 ```
-$ strings | grep hsctf{
+$ strings slap.jpg | grep hsctf{
 ```
 
 ![Flag](Capture.JPG)

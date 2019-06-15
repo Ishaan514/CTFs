@@ -1,8 +1,8 @@
-## Slap
+# Slap
 
 ## Challenge
 
-"Don't get slapped too hard.'
+"Don't get slapped too hard."
 
 You can download the file for this problem here [slap.jpg](slap.jpg)
 
@@ -20,4 +20,5 @@ $ strings | grep hsctf{
 ![Flag](Capture.JPG)
 
 It was that simple. 
+
 The flag is hsctf{twoslapsnonetforce}

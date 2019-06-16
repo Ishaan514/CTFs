@@ -14,7 +14,7 @@ I then plugged in "anything' OR 'x'='x" into the username and password of the si
 
 ![Capture0.JPG](Capture0.JPG)
 
-!{Capture.JPG](Capture.JPG)
+![Capture.JPG](Capture.JPG)
 
 The flag is hsctf{mysql_real_escape_string}
 

@@ -6,7 +6,7 @@
 
 ## Process
 
-I opened the form and viewed the page source. I then used ctrl-f to find the flag. 
+I opened the linked form and viewed the page source. I then used ctrl-f to find the flag. 
 
 ![Capture.JPG](Capture.JPG)
 

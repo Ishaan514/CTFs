@@ -29,7 +29,7 @@ $ (python spam.py | nc challenges.ctfd.io 30133) > unfiltered.txt
 
 ![Capture2.JPG](Capture2.JPG)
 
-Next I created [this]{filter.py) python program to filter through the output from the last python program and piece together the flag.
+Next I created [this](filter.py) python program to filter through the output from the last python program and piece together the flag.
 
 ```
 keyChars = ' !"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~'

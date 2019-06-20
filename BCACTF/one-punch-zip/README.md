@@ -6,7 +6,7 @@
 
 You can download the problem file here [superSecure.zip](superSecure.zip)
 
-##Process
+## Process
 
 At first I tried bruteforcing the password of the zip file with fcrackzip, but that was taking a very long time.
 

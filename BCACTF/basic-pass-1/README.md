@@ -1,6 +1,6 @@
 # basic-pass-1
 
-## ChallengeYour
+## Challenge
 
 "Your company is testing out a new login software, and being one of the CompSec experts, they want you to test it. They say that they have hidden a key somewhere in the program, and want you to look for it. Find it, and they might even consider giving you a pay raise...
 

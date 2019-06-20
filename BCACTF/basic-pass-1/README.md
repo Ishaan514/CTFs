@@ -6,8 +6,6 @@
 
 They have told you that there is a four digit pin on the program to unlock it."
 
-![Capture0.JPG](Capture0.JPG)
-
 You can download the problem file here [basic-pass-1-linux](basic-pass-1-linux)
 
 ## Process

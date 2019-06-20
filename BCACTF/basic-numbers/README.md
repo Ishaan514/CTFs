@@ -10,8 +10,6 @@ We have a raw flag here, but what do we do with it?
 
 The answer should be in the format bcactf{answer}.
 
-![Capture.JPG](Capture.JPG)
-
 ## Process
 
 We are given 

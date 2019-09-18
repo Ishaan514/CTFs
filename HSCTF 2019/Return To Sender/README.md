@@ -62,7 +62,7 @@ This tells us that we want to jump into the function win(). I ran gbd on the fil
 I than ran an object dump on the given elf file to find the address of the function win(). You can look at the entire dump here [objectdump-d.txt](objectdump-d.txt).
 
 ```
-$ objectdump -d return-to-sender > objectdump-d.txt
+$ objdump -d return-to-sender > objectdump-d.txt
 ```
 
 The important part of the dump is the address of win, which is 0x080491b6

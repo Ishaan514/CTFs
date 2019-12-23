@@ -52,7 +52,6 @@ int main()
 ```
 
 I noticed the line
-```
 
 ```
 	gets(buf);

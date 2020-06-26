@@ -22,11 +22,11 @@ Ciphertext
 
 The color wheel and the ciphertext have matching colors. The color wheel also has a color at every position of the clock. I labelled the color wheel like a clock.
 
-![color-wheel numbers.jpg](color-wheel numbers.jpg)
+![color-wheelnumbers.jpg](color-wheelnumbers.jpg)
 
 Using the color wheel I then labelled the ciphertext with the color wheel clock numbers.
 
-![ciphertext numbers.png](ciphertext numbers.png)
+![ciphertextnumbers.png](ciphertextnumbers.png)
 
 I obtained the following values, which I interpreted as base12 values.
 

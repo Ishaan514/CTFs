@@ -45,7 +45,7 @@ The lines below are important to the buffer overflow. The variable named code is
 ...
   if(code != 0) {
     system("/bin/sh");
-``
+```
 
 Inputting lots of characters will overwrite the variable code and make it no longer equal to zero. Once this occurs you can obtain shell capabilities. The flag can then be found and displayed.
 
